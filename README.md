@@ -1,0 +1,1 @@
+#Nesse repositório serão armazenados os exercicios da trilha basica do PodCodar
